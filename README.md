@@ -48,4 +48,4 @@ Splatoshi rises, across the land.
 
 — anonymous
 
-<img src="http://127.0.0.1:8080/splat.svg" alt="Splatoshi Logo" width="200">
+<img src="https://github.com/fermartz/splatoshi-dev/blob/main/splat.svg" alt="Splatoshi Logo" width="200">
