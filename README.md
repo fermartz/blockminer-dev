@@ -1,51 +1,51 @@
-# Splatoshi Splatoshi
+# The Tale of Blockminer
 
-From Bitcoin’s heart, where proof of work was born,
+In the world of coins where memes took flight,  
 <br>
-A crypto launch with a new dawn sworn.
+Blockminer shines, a brand new light.  
 <br>
-In memecoins’ wake and hype’s wild ride,
+Forget the hype, the wild two years,  
 <br>
-A fresh frontier, where Bitcoiners stride.
-<br>
-<br>
-Ordinals, Runes, and L2s' sway,
-<br>
-Sidechains bloom, paving the way.
-<br>
-Bitcoin’s renaissance shines bright and wide,
-<br>
-And Splatoshi stands by their side.
+We’re digging deep, no need for cheers!  
 <br>
 <br>
-With fairness forged in work’s true light,
+Bitcoin’s roots, oh strong and true,  
 <br>
-A closer kin to Bitcoin’s might.
+A proof-of-work, just built for you.  
 <br>
-Miners bound by proof, no ASIC reign,
+No ASIC war or GPU race,  
 <br>
-GPU stands strong, the rules remain.
-<br>
-<br>
-On this new path, they build with care,
-<br>
-A native space for Bitcoin’s heirs.
-<br>
-No need to learn a new domain,
-<br>
-Splatoshi keeps the interface plain.
+Just fair play here, no frantic pace.  
 <br>
 <br>
-A launch that's fair, a launch that’s bold,
+Ordinals, runes, they’ve had their run,  
 <br>
-For Bitcoin’s future, it takes hold.
+But now we’re mining just for fun!  
 <br>
-With trust and strength, we're in command,
+Spin up your rig, let’s start the show,  
 <br>
-Splatoshi rises, across the land.
+No need to learn the stuff you don’t know.  
+<br>
+<br>
+With cycles burning and tokens won,  
+<br>
+This proof-of-work’s a fairer one.  
+<br>
+No complicated twists or turns,  
+<br>
+Just simple mining where everyone earns.  
+<br>
+<br>
+So let’s get mining, it’s time to play,  
+<br>
+Blockminer’s here to save the day!  
+<br>
+With every click, a token’s born,  
+<br>
+In this lighthearted crypto dawn!  
 <br>
 <br>
 
 — anonymous
 
-<img src="https://github.com/fermartz/splatoshi-dev/blob/main/splat.svg" alt="Splatoshi Logo" width="200">
+<img src="https://github.com/fermartz/splatoshi-dev/blob/main/splat.svg" alt="Blockminer Logo" width="200">
